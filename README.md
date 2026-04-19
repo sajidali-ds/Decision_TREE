@@ -1,2 +1,3 @@
 # Decision_TREE
-A from-scratch implementation of Decision Tree supporting both classification and regression, using splitting criteria like Gini impurity and variance reduction.
+Decision Tree implementation on the Iris dataset with hyperparameter tuning and post-pruning to improve model generalization.
+Also Decision Tree regression model for diabetes prediction with hyperparameter tuning and post-pruning to improve performance.
